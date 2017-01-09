@@ -1,0 +1,15 @@
+c:\users\rstown\documents\visual studio 2017\Projects\spotifydownloader\spotifydownloader\obj\Debug\spotifydownloader.csprojResolveAssemblyReference.cache
+c:\users\rstown\documents\visual studio 2017\Projects\spotifydownloader\spotifydownloader\obj\Debug\MainWindow.baml
+c:\users\rstown\documents\visual studio 2017\Projects\spotifydownloader\spotifydownloader\obj\Debug\MainWindow.g.cs
+c:\users\rstown\documents\visual studio 2017\Projects\spotifydownloader\spotifydownloader\obj\Debug\App.g.cs
+c:\users\rstown\documents\visual studio 2017\Projects\spotifydownloader\spotifydownloader\obj\Debug\spotifydownloader_MarkupCompile.cache
+c:\users\rstown\documents\visual studio 2017\Projects\spotifydownloader\spotifydownloader\obj\Debug\spotifydownloader.g.resources
+c:\users\rstown\documents\visual studio 2017\Projects\spotifydownloader\spotifydownloader\obj\Debug\spotifydownloader.Properties.Resources.resources
+c:\users\rstown\documents\visual studio 2017\Projects\spotifydownloader\spotifydownloader\obj\Debug\spotifydownloader.csproj.GenerateResource.Cache
+C:\Users\RsTown\Documents\Visual Studio 2017\Projects\spotifydownloader\spotifydownloader\bin\Debug\spotifydownloader.exe.config
+C:\Users\RsTown\Documents\Visual Studio 2017\Projects\spotifydownloader\spotifydownloader\bin\Debug\spotifydownloader.exe
+C:\Users\RsTown\Documents\Visual Studio 2017\Projects\spotifydownloader\spotifydownloader\bin\Debug\spotifydownloader.pdb
+C:\Users\RsTown\Documents\Visual Studio 2017\Projects\spotifydownloader\spotifydownloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RsTown\Documents\Visual Studio 2017\Projects\spotifydownloader\spotifydownloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RsTown\Documents\Visual Studio 2017\Projects\spotifydownloader\spotifydownloader\obj\Debug\spotifydownloader.exe
+C:\Users\RsTown\Documents\Visual Studio 2017\Projects\spotifydownloader\spotifydownloader\obj\Debug\spotifydownloader.pdb
